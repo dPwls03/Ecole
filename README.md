@@ -17,5 +17,6 @@
 
 ---
 ## 🛠️ **사용한 언어 및 도구**  
-- **언어**: Python <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="50">  
-- **툴**: Visual Studio Code (VSCode) <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode Logo" width="50">  
+- **언어**: Python <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="20" align="center">  
+- **도구**: Visual Studio Code (VSCode) <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode Logo" width="20" align="center"> 
+
