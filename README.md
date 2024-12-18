@@ -17,6 +17,10 @@
 
 ---
 ## 🛠️ **사용한 언어 및 도구**  
-- **언어**: Python <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="20" align="center">  
-- **도구**: Visual Studio Code (VSCode) <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode Logo" width="20" align="center"> 
+- **언어**: <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="20" align="center"> Python 
+- **도구**: <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode Logo" width="20" align="center"> Visual Studio Code (VSCode)  
 
+---
+## 📌 **추가내용**  
+- 알고리즘 문제 해결은 **12:00 AM ~ 05:00 AM**까지 진행하였습니다.  
+- PPT 제작 후 문제 풀이 발표는 **05:00 AM ** 부터 진행하였습니다.  
