@@ -15,3 +15,7 @@
 | 2024-11-16 (토) | 백준 - **11725 트리의 부모 찾기**      | [참고하기](./1116/)                     |  
 | 2024-11-30 (토) | 백준 - **11758 CCW**                 | [참고하기](./1130/)                     |  
 
+---
+## 🛠️ **사용한 언어 및 도구**  
+- **언어**: Python <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="50">  
+- **툴**: Visual Studio Code (VSCode) <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode Logo" width="50">  
