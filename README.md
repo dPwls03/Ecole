@@ -1,6 +1,7 @@
 # 🎓 **Ecole Capstone Design** 🎓  
-알고리즘 문제해결 및 풀이 기록 📘  
+알고리즘 문제해결 및 풀이 기록 📘
 
+---
 ## 🗓️ **진행 일정**  
 **2024-09-06 ~ 2024-11-30**  
 
@@ -17,8 +18,8 @@
 
 ---
 ## 🛠️ **사용한 언어 및 도구**  
-- **언어**: <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="20" align="center"> Python 
-- **도구**: <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode Logo" width="20" align="center"> Visual Studio Code (VSCode)  
+- **언어** : <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="20" align="center"> Python 
+- **도구** : <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode Logo" width="20" align="center"> Visual Studio Code (VSCode)  
 
 ---
 ## 📌 **추가내용**  
